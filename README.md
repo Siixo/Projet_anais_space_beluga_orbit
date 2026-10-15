@@ -1,6 +1,14 @@
-# Vue 3 + Vite
+# Projet Beluga Orbit 
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
-Projet beluga-orbit
+Petit projet pour Anais
+---
+### Librairies:
+-Tailwind
+-Three.js
+---
+### Resources:
+[Earth texture map 2K](https://www.solarsystemscope.com/textures/download/2k_earth_nightmap.jpg)
+[Modèle béluga](https://github.com/Flightradar24/fr24-3d-models/tree/master/models)
+---
+### Dev: 
+`npm run dev`: Démarre le serveur de dev 
